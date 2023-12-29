@@ -1,0 +1,92 @@
+[
+    {
+        "id": "arbol-01",
+        "titulo": "Arbol Grande",
+        "imagen": "./Productos/arboles/01.jpg",
+        "categoria": {
+            "nombre": "Arboles",
+            "id": "arboles"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "arbol-02",
+        "titulo": "Arbol Mediano",
+        "imagen": "./Productos/arboles/02.jpg",
+        "categoria": {
+            "nombre": "Arboles",
+            "id": "arboles"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "arbol-03",
+        "titulo": "Arbol Pequeño",
+        "imagen": "./Productos/arboles/03.jpg",
+        "categoria": {
+            "nombre": "Arboles",
+            "id": "arboles"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "decorado-01",
+        "titulo": "Arbol Dorado",
+        "imagen": "./Productos/decorados/01.jpg",
+        "categoria": {
+            "nombre": "Arboles Decorados",
+            "id": "decorados"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "decorado-02",
+        "titulo": "Arbol Rosa",
+        "imagen": "./Productos/decorados/02.jpg",
+        "categoria": {
+            "nombre": "Arboles Decorados",
+            "id": "decorados"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "decorado-03",
+        "titulo": "Arbol Azul",
+        "imagen": "./Productos/decorados/03.jpg",
+        "categoria": {
+            "nombre": "Arboles Decorados",
+            "id": "decorados"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "adorno-01",
+        "titulo": "Bolas de Navidad",
+        "imagen": "./Productos/adornos/01.jpg",
+        "categoria": {
+            "nombre": "Adornos",
+            "id": "adorno"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "adorno-02",
+        "titulo": "Lazos",
+        "imagen": "./Productos/adornos/02.jpg",
+        "categoria": {
+            "nombre": "Adornos",
+            "id": "adorno"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "adorno-03",
+        "titulo": "Guirnaldas",
+        "imagen": "./Productos/adornos/03.jpg",
+        "categoria": {
+            "nombre": "Adornos",
+            "id": "adorno"
+        },
+        "precio": 1000
+    }
+]
